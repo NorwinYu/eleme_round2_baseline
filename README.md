@@ -1,4 +1,5 @@
 # 复赛 Baseline 流程部署分享
+https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.12.1f7f48c8KyMyxa&postId=104183
 [https://tianchi.aliyun.com/competition/entrance/231777](https://tianchi.aliyun.com/competition/entrance/231777)
 
 智慧物流：新冠期间饿了么骑士行为预估 复赛 
